@@ -7,8 +7,7 @@ function App() {
       templateAreas={{
         base: `"nav" "main"`, //for Mobile Screen
         lg: `"nav nav" "aside main"`, // 1024px
-      }}
-    >
+      }}>
       <GridItem area="nav" >
         <NavBar>
 
