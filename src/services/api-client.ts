@@ -3,6 +3,6 @@ import axios from "axios";
 export default axios.create({
     baseURL: 'https://api.rawg.io/api/',
     params:{
-        key:'a155f7911125443bb8da3276e51b739d'
+        key:{YOUR_API_KEY} // provide you rawg.io api key from -- https://rawg.io/signup
     }
 })
