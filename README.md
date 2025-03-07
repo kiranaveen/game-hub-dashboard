@@ -9,8 +9,6 @@ Welcome to the Game Hub Dashboard! This project is built using React and TypeScr
 - [Installation](#installation)
 - [Usage](#usage)
 - [API](https://rawg.io/signup)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
